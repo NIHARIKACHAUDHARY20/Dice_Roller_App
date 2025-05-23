@@ -1,4 +1,15 @@
 <img width="220" alt="appImage" src="https://github.com/NIHARIKACHAUDHARY20/Dice_Roller_App/assets/124075156/a5258244-7331-4733-a822-675056d3a4d5">
+Attended the WSR (Weekly Status Review) Meet focused on EC operations:
+
+Reviewed weekly incidents, platform releases, and key operational highlights.
+
+Discussed site alerts, corresponding actions, and resolutions.
+
+Analyzed health parameters of the site with detailed traffic analysis.
+
+Contributed to discussion on Uniqlo India’s payment optimization:
+
+Focus on UPI-related error rate reduction and overall checkout experience improvement.
 Weekly Internship Report
 Intern: Niharika
 Role: Software & Data Intern
