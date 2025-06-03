@@ -4,7 +4,7 @@
 https://photos.app.goo.gl/zDZkfbwXFD1c4LSNA
 
 https://docs.google.com/presentation/d/135liCM4hvvqQIq240UTbGqHPRwwf_wItHZxAFPdmAiE/edit?usp=drivesdk
-
+https://docs.google.com/document/d/1WUaZk2jO_dtooOf_swfUjI41yNQ7eT4q2ZBMYjizRNk/edit?usp=drivesdk
 ---
 
 Weekly Internship Report
